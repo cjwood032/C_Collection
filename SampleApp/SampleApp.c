@@ -1,11 +1,14 @@
 #include <stdio.h>
 int main()
 {
-    char str[100];
-    double i;
-    printf("enter a name and weight:\n");
-    //char str[] = "Chris";
-    scanf("%s %lf",str, &i);
-    printf("Hi, my name is \n %s and I'm %lf \n", str, i);
+    double w=20.25;
+    double l=8.5;
+    double p;
+    double a;
+    //printf("enter a length and width:\n");
+    //scanf("%f %f",&w, &l);
+    p=w*2+l*2;
+    a = w*l;
+    printf("A rectangle of width:%.2f and lenght:%.2f\nhas a perimeter of %.2f, and an area of %.2f",w,l,p,a);
     return 0;
 }
