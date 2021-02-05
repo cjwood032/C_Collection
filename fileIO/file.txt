@@ -1,5 +1,5 @@
-This is a file.
-There will be a number of lines.
-I'm going to find the number of lines.
-General Kenobi!
-I'm also going to try to insert I think. 
+this is a file.
+there will be a number of lines.
+i'm going to find the number of lines.
+general kenobi!
+i'm also going to try to insert i think. 
